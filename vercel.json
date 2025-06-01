@@ -1,7 +1,8 @@
 {
     "cleanUrls": true,
+    "trailingSlash": false,
     "rewrites": [],
     "redirects": [],
     "headers": [],
-    "trailingSlash": false
+    "outputDirectory": "public"
 }
