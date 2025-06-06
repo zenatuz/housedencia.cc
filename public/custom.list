@@ -1,14 +1,15 @@
 # Wifi router Xiaomi
-192.168.31.1    router.miwifi.com
+192.168.31.1 router.miwifi.com
 
 # Physical servers
-192.168.31.5    vm01.housedencia.cc
-192.168.31.6    macpro.housedencia.cc
-192.168.31.25   docker01.housedencia.cc
-192.168.31.15   rpi01.housedencia.cc
+192.168.31.5 vm01.housedencia.cc
+192.168.31.6 macpro.housedencia.cc
+192.168.31.25 docker01.housedencia.cc
+192.168.31.15 rpi01.housedencia.cc
 
-# Network infra & Services (vm)
-192.168.31.10   fw.housedencia.cc
-192.168.31.11   pihole11.housedencia.cc
-192.168.31.12   pihole12.housedencia.cc
-192.168.31.15   home-assistant.housedencia.cc
+# Network infra (vm)
+192.168.31.10 fw.housedencia.cc
+192.168.31.11 pihole11.housedencia.cc
+192.168.31.12 pihole12.housedencia.cc
+192.168.31.15 home-assistant.housedencia.cc
+192.168.31.6 proxy.housedencia.cc
