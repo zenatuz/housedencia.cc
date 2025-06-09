@@ -9,7 +9,3 @@
 
 # Network infra (vm/docker)
 192.168.31.10 fw.housedencia.cc
-192.168.31.11 pihole11.housedencia.cc
-192.168.31.12 pihole12.housedencia.cc
-192.168.31.15 home-assistant.housedencia.cc
-192.168.31.20 proxy.housedencia.cc
