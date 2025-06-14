@@ -1,10 +1,9 @@
-# Custom CNAME records for dnsmasq (used by Pi-hole)
-# Place one CNAME mapping per line in the following format:
-#   cname=alias.domain,original.domain
-# Example:
-#   cname=www.example.com,example.com
-# This file will be mounted at /etc/dnsmasq.d/05-pihole-custom-cname.conf
+# Custom CNAME records for dnsmasq (Pi-hole's DNS service)
+# Format: cname=alias.domain,original.domain
+# Example: cname=www.example.com,example.com
+# This file is mounted at /etc/dnsmasq.d/05-pihole-custom-cname.conf
 
-cname=proxy.housedencia.cc,macpro.housedencia.cc
-cname=pihole01.housedencia.cc,docker01.housedencia.cc
-cname=pihole01.housedencia.cc,macpro.housedencia.cc
+# Home network service mappings
+cname=pihole01.housedencia.cc,proxy.housedencia.cc
+cname=pihole02.housedencia.cc,docker01.housedencia.cc
+cname=proxmox.housedencia.cc,proxy.housedencia.cc
