@@ -1,11 +1,14 @@
-# Wifi router Xiaomi
-192.168.31.1 router.miwifi.com
+# Network Devices
+192.168.31.1 router.miwifi.com    # Xiaomi WiFi Router
 
-# Physical servers
-192.168.31.5 vm01.housedencia.cc
-192.168.31.6 macpro.housedencia.cc
-192.168.31.25 docker01.housedencia.cc
-192.168.31.15 rpi01.housedencia.cc
+# Physical Hosts
+192.168.31.5  vm01.housedencia.cc     # VM Host
+192.168.31.6  macpro.housedencia.cc   # Mac Pro
+192.168.31.15 rpi01.housedencia.cc    # Raspberry Pi
+192.168.31.20 proxy.housedencia.cc    # Reverse Proxy
 
-# Network infra (vm/docker)
-192.168.31.10 fw.housedencia.cc
+# Virtual Machines
+192.168.31.10 fw.housedencia.cc       # Firewall
+192.168.31.25 docker01.housedencia.cc # Docker Host
+
+# Note: Additional hosts behind proxy are defined in cname.list
