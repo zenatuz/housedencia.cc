@@ -9,3 +9,6 @@ cname=pihole02.housedencia.cc,docker01.housedencia.cc
 cname=proxmox.housedencia.cc,proxy.housedencia.cc
 cname=code.housedencia.cc,proxy.housedencia.cc
 cname=plex.housedencia.cc,proxy.housedencia.cc
+cname=jackett.housedencia.cc,proxy.housedencia.cc
+cname=sonarr.housedencia.cc,proxy.housedencia.cc
+cname=radarr.housedencia.cc,proxy.housedencia.cc
