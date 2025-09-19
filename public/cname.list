@@ -13,3 +13,4 @@ cname=jackett.housedencia.cc,proxy.housedencia.cc
 cname=sonarr.housedencia.cc,proxy.housedencia.cc
 cname=radarr.housedencia.cc,proxy.housedencia.cc
 cname=torrent.housedencia.cc,proxy.housedencia.cc
+cname=media.housedencia.cc,proxy.housedencia.cc
