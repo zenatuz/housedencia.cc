@@ -4,13 +4,19 @@
 # This file is mounted at /etc/dnsmasq.d/05-pihole-custom-cname.conf
 
 # Home network service mappings
+# Hosting / Newtork
 cname=pihole01.housedencia.cc,proxy.housedencia.cc
 cname=pihole02.housedencia.cc,docker01.housedencia.cc
 cname=proxmox.housedencia.cc,proxy.housedencia.cc
+
+# Code
 cname=code.housedencia.cc,proxy.housedencia.cc
-cname=plex.housedencia.cc,proxy.housedencia.cc
+
+# Media
+cname=bazarr.housedencia.cc,proxy.housedencia.cc
 cname=jackett.housedencia.cc,proxy.housedencia.cc
-cname=sonarr.housedencia.cc,proxy.housedencia.cc
-cname=radarr.housedencia.cc,proxy.housedencia.cc
-cname=torrent.housedencia.cc,proxy.housedencia.cc
 cname=media.housedencia.cc,proxy.housedencia.cc
+cname=plex.housedencia.cc,proxy.housedencia.cc
+cname=radarr.housedencia.cc,proxy.housedencia.cc
+cname=sonarr.housedencia.cc,proxy.housedencia.cc
+cname=torrent.housedencia.cc,proxy.housedencia.cc
