@@ -12,12 +12,35 @@ cname=proxmox.housedencia.cc,proxy.housedencia.cc
 # Code
 cname=code.housedencia.cc,proxy.housedencia.cc
 
-# Media
+# Media - Current Names
+cname=media.housedencia.cc,proxy.housedencia.cc
 cname=bazarr.housedencia.cc,proxy.housedencia.cc
 cname=files.housedencia.cc,proxy.housedencia.cc
 cname=jackett.housedencia.cc,proxy.housedencia.cc
 cname=media.housedencia.cc,proxy.housedencia.cc
-cname=plex.housedencia.cc,proxy.housedencia.cc
 cname=radarr.housedencia.cc,proxy.housedencia.cc
 cname=sonarr.housedencia.cc,proxy.housedencia.cc
 cname=torrent.housedencia.cc,proxy.housedencia.cc
+
+# Mediabox - Functional Names
+cname=player.housedencia.cc,proxy.housedencia.cc
+cname=stream.housedencia.cc,proxy.housedencia.cc
+cname=series.housedencia.cc,proxy.housedencia.cc
+cname=shows.housedencia.cc,proxy.housedencia.cc
+cname=movies.housedencia.cc,proxy.housedencia.cc
+cname=films.housedencia.cc,proxy.housedencia.cc
+cname=subs.housedencia.cc,proxy.housedencia.cc
+cname=subtitles.housedencia.cc,proxy.housedencia.cc
+cname=download.housedencia.cc,proxy.housedencia.cc
+cname=indexer.housedencia.cc,proxy.housedencia.cc
+cname=trackers.housedencia.cc,proxy.housedencia.cc
+cname=solver.housedencia.cc,proxy.housedencia.cc
+
+# Additional Services
+cname=admin.housedencia.cc,proxy.housedencia.cc
+cname=monitor.housedencia.cc,proxy.housedencia.cc
+cname=logs.housedencia.cc,proxy.housedencia.cc
+cname=backup.housedencia.cc,proxy.housedencia.cc
+cname=sync.housedencia.cc,proxy.housedencia.cc
+cname=git.housedencia.cc,proxy.housedencia.cc
+cname=build.housedencia.cc,proxy.housedencia.cc
