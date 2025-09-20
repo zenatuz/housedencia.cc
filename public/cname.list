@@ -17,7 +17,6 @@ cname=media.housedencia.cc,proxy.housedencia.cc
 cname=bazarr.housedencia.cc,proxy.housedencia.cc
 cname=files.housedencia.cc,proxy.housedencia.cc
 cname=jackett.housedencia.cc,proxy.housedencia.cc
-cname=media.housedencia.cc,proxy.housedencia.cc
 cname=radarr.housedencia.cc,proxy.housedencia.cc
 cname=sonarr.housedencia.cc,proxy.housedencia.cc
 cname=torrent.housedencia.cc,proxy.housedencia.cc
