@@ -6,6 +6,7 @@
 192.168.31.6  macpro.housedencia.cc   # Mac Pro
 192.168.31.15 rpi01.housedencia.cc    # Raspberry Pi
 192.168.31.20 proxy.housedencia.cc    # Reverse Proxy
+192.168.31.20 housedencia.cc          # Reverse Proxy
 
 # Virtual Machines
 192.168.31.10 fw.housedencia.cc       # Firewall
