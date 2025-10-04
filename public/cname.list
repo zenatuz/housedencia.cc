@@ -8,7 +8,9 @@
 cname=pihole01.housedencia.cc,proxy.housedencia.cc
 cname=pihole02.housedencia.cc,proxy.housedencia.cc
 cname=proxmox.housedencia.cc,proxy.housedencia.cc
-cname=ha.housedencia.cc,proxy.housedencia.cc # Home-Asssistant
+
+# Home-Asssistant
+cname=ha.housedencia.cc,proxy.housedencia.cc 
 
 # Code
 cname=code.housedencia.cc,proxy.housedencia.cc
