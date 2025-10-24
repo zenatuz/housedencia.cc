@@ -12,4 +12,8 @@
 192.168.31.10 fw.housedencia.cc       # Firewall
 192.168.31.25 docker01.housedencia.cc # Docker Host
 
+# Cloud hosts
+151.241.228.231 pangolin.housedencia.cc
+
 # Note: Additional hosts behind proxy are defined in cname.list
+
