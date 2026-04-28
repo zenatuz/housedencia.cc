@@ -4,4 +4,7 @@
 # Physical Hosts
 192.168.31.22   vm-docker-minipc.housedencia.cc # Docker Host
 
+# Services
+192.168.31.22   financas.housedencia.cc # Actual Budget
+
 # Note: any additional hosts running on the same server as the proxy are defined in the cname.list file.
