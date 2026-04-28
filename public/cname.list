@@ -4,6 +4,4 @@
 # This file is mounted at /etc/dnsmasq.d/05-pihole-custom-cname.conf
 
 # Home network service mappings
-# Hosting / Newtork
-cname=pihole01.housedencia.cc,proxy.housedencia.cc
 cname=pihole.housedencia.cc,vm-docker-minipc.housedencia.cc

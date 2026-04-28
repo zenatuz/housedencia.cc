@@ -1,7 +1,7 @@
+# Devices
+192.168.31.1    wifi.housedencia.cc 
+
 # Physical Hosts
-192.168.31.22 vm-docker-minipc.housedencia.cc # Docker Host
+192.168.31.22   vm-docker-minipc.housedencia.cc # Docker Host
 
-#
-
-# Note: Additional hosts behind proxy are defined in cname.list
-
+# Note: any additional hosts running on the same server as the proxy are defined in the cname.list file.
