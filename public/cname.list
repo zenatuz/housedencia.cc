@@ -5,3 +5,9 @@
 
 # Home network service mappings
 cname=pihole.housedencia.cc,vm-docker-minipc.housedencia.cc
+cname=torrent.housedencia.cc,vm-docker-minipc.housedencia.cc
+cname=vpn.housedencia.cc,vm-docker-minipc.housedencia.cc
+cname=prowlarr.housedencia.cc,vm-docker-minipc.housedencia.cc
+cname=sonarr.housedencia.cc,vm-docker-minipc.housedencia.cc
+cname=radarr.housedencia.cc,vm-docker-minipc.housedencia.cc
+cname=player.housedencia.cc,vm-docker-minipc.housedencia.cc
