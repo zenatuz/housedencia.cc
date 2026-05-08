@@ -11,3 +11,4 @@ cname=prowlarr.housedencia.cc,vm-docker-minipc.housedencia.cc
 cname=sonarr.housedencia.cc,vm-docker-minipc.housedencia.cc
 cname=radarr.housedencia.cc,vm-docker-minipc.housedencia.cc
 cname=player.housedencia.cc,vm-docker-minipc.housedencia.cc
+cname=smb-share.housedencia.cc,vm-docker-minipc.housedencia.cc
