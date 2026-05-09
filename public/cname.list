@@ -1,4 +1,4 @@
-# Custom CNAME records for dnsmasq (Pi-hole's DNS service)
+# CNAME aliases only. Put A records in `custom.list`.
 # Format: cname=alias.domain,original.domain
 # Example: cname=www.example.com,example.com
 # This file is mounted at /etc/dnsmasq.d/05-pihole-custom-cname.conf
@@ -12,3 +12,5 @@ cname=sonarr.housedencia.cc,vm-docker-minipc.housedencia.cc
 cname=radarr.housedencia.cc,vm-docker-minipc.housedencia.cc
 cname=player.housedencia.cc,vm-docker-minipc.housedencia.cc
 cname=smb-share.housedencia.cc,vm-docker-minipc.housedencia.cc
+cname=housedencia.cc,vm-docker-minipc.housedencia.cc
+cname=financas.housedencia.cc,vm-docker-minipc.housedencia.cc

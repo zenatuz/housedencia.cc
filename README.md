@@ -1,6 +1,6 @@
 # housedencia.cc DNS Custom List
 
-This repository hosts a custom DNS list used with Pi-hole and Unbound for the `housedencia.cc` domain. The list is published online via Vercel and can be fetched programmatically.
+This repository hosts custom DNS lists used with Pi-hole and Unbound for the `housedencia.cc` domain. `custom.list` is for A records only and `cname.list` is for aliases. The lists are published online via Vercel and can be fetched programmatically.
 
 ## Repository Structure
 
