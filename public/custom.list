@@ -3,6 +3,7 @@
 
 # Physical Hosts
 192.168.31.22   vm-docker-minipc.housedencia.cc # Docker Host
+192.168.31.22   housedencia.cc # Traefik / Homepage apex
 
 # Services
 192.168.31.22   financas.housedencia.cc # Actual Budget
